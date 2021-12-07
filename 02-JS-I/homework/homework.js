@@ -1,15 +1,15 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-<<<<<<< HEAD
-<<<<<<< HEAD
+//<<<<<<< HEAD
+//<<<<<<< HEAD
 const nuevaString = "JUAN";
-=======
-const nuevaString = 'Hola';
->>>>>>> 8a853f2d12d2110fe7e8be941a365b155d73ffb6
-=======
-const nuevaString = null;
->>>>>>> 45a6e16bdb3df0759adf1d34525c6d6759bfd4cc
+//=======
+//const nuevaString = 'Hola';
+//>>>>>>> 8a853f2d12d2110fe7e8be941a365b155d73ffb6
+//=======
+//const nuevaString = null;
+//>>>>>>> 45a6e16bdb3df0759adf1d34525c6d6759bfd4cc
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 3.1416;
